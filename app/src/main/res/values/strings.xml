@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Lev Zilberman</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="bio">Hi my name is Lev.
+    \n\nI Love volleyball.
+    \n\nI play different kind of volleyball.
+    \n\nFor Example: snowvowlley, beachvolley and classic volleyball.
+    \n\nAlso I go to the gym
+    \n\nI like to travel too. I have already been in Turkey, Finland, Sweden, Czech Republic, Israel, India, Belarus, Ukraine, Hungary, Latvia,
+    Cyprus, Vietnam, Tunis, Georgia, etc. And I\'m going to visit more countries as much as possible.
+    \n\n I am working as Software developer for more than 5 years. At this moment I work in Raiffeisen Bank Russia. Previously
+    I worked in Deutsche bank</string>
+</resources>
